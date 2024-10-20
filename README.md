@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Pandey</h1>
-<h3 align="center">A Web developer from India.</h3>
+<h3 align="center">A Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxpemR3Ym56dWpkdXBwYzZnaG8wYmg0em1zdWF6dXo3eTY5Mjk4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp">
 
 
