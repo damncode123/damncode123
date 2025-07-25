@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damncode123" alt="damncode123" /></a> </p>
 
-- 🔭 I’m currently working on [InsightExchange](https://github.com/damncode123/InsightExchange)
+- 🔭 I’m currently working on [RAG-BOT](https://github.com/damncode123/RAG-BOT)
 
-- 🌱 I’m currently learning **Python Flask , Golang**
+- 🌱 I’m currently learning **Python, JAVA - SpringBoot**
 
 - 💬 Ask me about **Javascript,React,Node.js,Express.js,Mongodb,MYSQL**
 
