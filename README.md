@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhinav-pandey-662231230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-pandey-662231230" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhinav_0006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhinav_0006" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhinav____06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhinav____06" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/abhinav_0006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhinav_0006" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/abhinav____06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhinav____06" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/abhinav_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinav_0001" height="30" width="40" /></a>
 </p>
 
